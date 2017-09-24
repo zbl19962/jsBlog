@@ -1,10 +1,9 @@
-.idea/
+.idea
 .gradle
-build/
+build
 *.iml
-out/
-classes/
+classes
+out
+target
 src/main/resources/static/lib/codemirror/mode/jade/
 src/main/resources/static/lib/codemirror/mode/rpm/changes/
-arget/
-application-jcala.yml

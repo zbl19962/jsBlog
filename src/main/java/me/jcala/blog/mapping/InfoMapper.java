@@ -17,7 +17,7 @@ public interface InfoMapper {
 
     @Select({
         "select username,email,",
-            "github,twitter,avatar",
+            "github,twitter,avatar,qq",
             "from admin limit 1"
     })
     Info select() throws RuntimeException;

@@ -18,4 +18,5 @@ public class Info {
     private String md;//简历的markdown文本，为了admin管理时能够回显
     private String resume;//简历的html文本
     private String Avatar;//头像地址
+    private String QQ;//QQ号
 }
